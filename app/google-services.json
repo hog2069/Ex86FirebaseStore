@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857562469200",
+    "project_id": "ex86hog2069firebasestore2021",
+    "storage_bucket": "ex86hog2069firebasestore2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857562469200:android:13e98f57f5697f16ced255",
+        "android_client_info": {
+          "package_name": "com.hog2020.ex86firebasestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857562469200-7f0ds2a1oegrrnk09gb9f6e8r8l88i17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJeH7Ej_BaAWlKuqTZihEaCxaort1V3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857562469200-7f0ds2a1oegrrnk09gb9f6e8r8l88i17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
